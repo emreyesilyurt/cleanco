@@ -1,7 +1,7 @@
 terms_by_type = {
    'Corporation': ['company', 'incorporated', 'corporation', 'corp.', 'corp', 'inc',
       '& co.', '& co', 'inc.', 's.p.a.', 'n.v.', 'a.g.', 'ag', 'nuf', 's.a.', 's.f.',
-      'oao', 'co.', 'co'
+      'oao', 'co.', 'Co', 'co'
    ],
    'General Partnership': ['soc.col.', 'stg', 'd.n.o.', 'ltda.', 'v.o.s.', 'a spol.',
       u've\xc5\x99. obch. spol.', 'kgaa', 'o.e.', 's.f.', 's.n.c.', 's.a.p.a.', 'j.t.d.',
